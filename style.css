@@ -1,0 +1,25 @@
+.superherocards{
+    width: 40%;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    border: 2px solid black;
+    margin-top: 20px;
+    
+}
+#result{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.superherocards img{
+    width: 150px;
+    height: 150px;
+} 
+
+/*  this is all about the superherogets details  */
+#superHerpResult{
+    width: 150px;
+    height: 100px;
+} 
